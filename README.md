@@ -35,7 +35,7 @@ We kindly ask you to perform testing of:
 5 Automated tasks
 5 Q&A mode questions.
 
-You are welcome to perform additional testing and include additional comments. We have separately included the rubrics and template for evaluation. Detailed instruction for each type of testing is included below:
+Please add your evaluation as an Issue in the Issues tab, and label your Issue according to the mode tested. You are welcome to perform additional testing and include additional comments. We have separately included the rubrics and template for evaluation. Detailed instruction for each type of testing is included below:
 
 
 ### 1.	For Meta-Task:
