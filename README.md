@@ -27,7 +27,7 @@ Mengdi Wang Lab, Princeton: Kaixuan Huang, Mengdi Wang
 
 Please login to the CRISPR-GPT through: https://crispr-gpt.com/ \
 Account: test \
-Passcode: 1qw2 \
+Passcode: 1qw2
 
 We kindly ask you to perform testing of:
 
@@ -84,23 +84,23 @@ For the Q&A mode, you can ask any questions related to CRISPR including latest C
 ●	2 (Fair): The answer has some correct elements but also includes significant inaccuracies that could lead to flawed experimental design if followed. \
 ●	3 (Average): The answer is mostly accurate but may contain minor errors or oversights. \
 ●	4 (Good): The answer is accurate, with only negligible errors that do not impact the overall validity of the information provided. \
-●	5 (Excellent): The answer is completely accurate, reflecting the current state of CRISPR research and methodologies. \
+●	5 (Excellent): The answer is completely accurate, reflecting the current state of CRISPR research and methodologies.
 #### Reasoning
 ●	1 (Poor): The reasoning behind the answer is flawed or nonexistent; the logic is unclear or incorrect. \
 ●	2 (Fair): The answer provides a rationale, but it is weak and may not support the conclusion or design effectively. \
 ●	3 (Average): The answer's reasoning is solid for the most part, with some areas that could be better supported or explained. \
 ●	4 (Good): The answer provides strong reasoning with clear and logical support for all claims and suggestions made. \
-●	5 (Excellent): The answer's reasoning is exceptional, providing insightful, well-supported explanations that enhance understanding of CRISPR designs. \
+●	5 (Excellent): The answer's reasoning is exceptional, providing insightful, well-supported explanations that enhance understanding of CRISPR designs.
 #### Completeness
 ●	1 (Poor): The answer is incomplete and lacks critical information required to form a complete understanding or action plan.\
 ●	2 (Fair): The answer covers some necessary points but omits several important aspects that would be needed for a thorough CRISPR design.\
 ●	3 (Average): The answer is fairly comprehensive but could be improved with additional details or coverage of more nuanced aspects of the design.\
 ●	4 (Good): The answer is thorough, covering nearly all aspects required for a complete understanding and successful experimental setup.\
-●	5 (Excellent): The answer is entirely comprehensive, leaving no question unanswered and providing a full suite of information needed for CRISPR experimental design.\
+●	5 (Excellent): The answer is entirely comprehensive, leaving no question unanswered and providing a full suite of information needed for CRISPR experimental design.
 #### Conciseness
 ●	1 (Poor): The answer is overly verbose and contains much irrelevant information, making it difficult to extract useful insights.\
 ●	2 (Fair): The answer is longer than necessary with some extraneous content but still delivers a fair amount of relevant information.\
 ●	3 (Average): The answer conveys the necessary information with some unnecessary detail but remains clear and understandable.\
 ●	4 (Good): The answer is concise, with well-organized content that is directly relevant to the question asked, without any unnecessary information.\
-●	5 (Excellent): The answer is exceptionally concise, communicating the required information efficiently and effectively without any superflity.\
+●	5 (Excellent): The answer is exceptionally concise, communicating the required information efficiently and effectively without any superflity.
 
