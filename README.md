@@ -31,9 +31,9 @@ Passcode: 1qw2
 
 We kindly ask you to perform testing of:
 
-1 Meta-Task
-5 Automated tasks
-5 Q&A mode questions.
+1. Meta-Task\
+2. Automated tasks\
+3. Q&A mode questions.
 
 Please add your evaluation as an Issue in the Issues tab, and label your Issue according to the mode tested. You are welcome to perform additional testing and include additional comments. We have separately included the rubrics and template for evaluation. Detailed instruction for each type of testing is included below:
 
