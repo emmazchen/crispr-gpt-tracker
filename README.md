@@ -14,23 +14,23 @@ Our CRISPR-GPT currently has three modes:
 
 3. Q and A mode, where users could ask CRISPR-related questions and our agent would generate answers based on both latest collections of CRISPR literatures and Chat-GPT4 knowledge base.
 
-In this round of internal testing, we are hoping to evaluate the performance of our CRISPR-GPT agent and compare that to the general LLM agent like Chat-GPT. We would like you, an expert in the CRISPR field, to evaluate the performance of CRISPR-GPT by scoring each task (using the Rubics below) on how it performs for you, and record the questions/task prompt and the corresponding response (we are supplying a separate table so you could directly input your score and send to Jerry: yhqu@stanford.edu).
+In this round of internal testing, we are hoping to evaluate the performance of our CRISPR-GPT agent and compare that to the general LLM agent like Chat-GPT. We would like you, an expert in the CRISPR field, to evaluate the performance of CRISPR-GPT by scoring each task (using the Rubics below) on how it performs for you, and record the questions/task prompt and the corresponding response:
+https://forms.gle/EfiWaQ7oyfPkDptA7
 
 We sincerely appreciate your contribution in the development of CRISPR-GPT.
 
 On behalf of the CRISPR-GPT team, 
-Le Cong Lab, Stanford: Yuanhao Qu, Le Cong
+Le Cong Lab, Stanford: Yuanhao Qu, Le Cong, Emma Chen
 Mengdi Wang Lab, Princeton: Kaixuan Huang, Mengdi Wang
 
 
 ## Instructions
 
 Please login to the CRISPR-GPT through: https://crispr-gpt.com/ \
-Account: test \
-Passcode: 1qw2
+Please use this link to register for a testing evaluator account if you don't already have one: 
+https://forms.gle/DjHVgCPbXzWW4mYJ7
 
 We kindly ask you to perform testing of:
-
 1. Meta-Task
 2. Automated tasks
 3. Q&A mode questions
