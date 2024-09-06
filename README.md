@@ -85,7 +85,7 @@ For the Q&A mode, you can ask any questions related to CRISPR including latest C
 ●	3 (Average): The answer is mostly accurate but may contain minor errors or oversights. \
 ●	4 (Good): The answer is accurate, with only negligible errors that do not impact the overall validity of the information provided. \
 ●	5 (Excellent): The answer is completely accurate, reflecting the current state of CRISPR research and methodologies.
-#### Reasoning
+#### Reasoning and Action (ReAct)
 ●	1 (Poor): The reasoning behind the answer is flawed or nonexistent; the logic is unclear or incorrect. \
 ●	2 (Fair): The answer provides a rationale, but it is weak and may not support the conclusion or design effectively. \
 ●	3 (Average): The answer's reasoning is solid for the most part, with some areas that could be better supported or explained. \
